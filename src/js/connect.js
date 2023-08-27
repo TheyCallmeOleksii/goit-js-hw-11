@@ -1,5 +1,5 @@
 async function getItem(searchField, page = 1) {
-  const API_KEY = '38874967-f841ab5810138828c5f6e1fdb';
+  const API_KEY = '39087480-448d61c12fa4136500785e5b6';
   const URL = 'https://pixabay.com/api/';
   const END_POINT =
     '&q=' +
